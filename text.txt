@@ -12,3 +12,4 @@
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 www.logitechlogitechglobal.112.2o7.net
 0.0.0.0 2s11.com
+0.0.0.0 progamerage.com
