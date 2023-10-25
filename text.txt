@@ -1,1 +1,14 @@
 0.0.0.0 wsecurely.com
+0.0.0.0 010sec.com
+0.0.0.0 01mspmd5yalky8.com
+0.0.0.0 0byv9mgbn0.com
+0.0.0.0 ns6.0pendns.org
+0.0.0.0 dns.0pengl.com
+0.0.0.0 12724.xyz
+0.0.0.0 21736.xyz
+0.0.0.0 www.analytics.247sports.com
+0.0.0.0 2no.co
+0.0.0.0 www.2no.co
+0.0.0.0 logitechlogitechglobal.112.2o7.net
+0.0.0.0 www.logitechlogitechglobal.112.2o7.net
+0.0.0.0 2s11.com
